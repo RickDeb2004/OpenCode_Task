@@ -1,0 +1,32 @@
+Git is a version control system that allows you to manage and keep track of different versions of your code. It was created by Linus Torvalds in 2005.
+
+GitHub, on the other hand, is a web-based platform that provides hosting for software development and a community of developers to collaborate and contribute to open-source projects. It was founded in 2008 and is built on top of Git.
+
+In simple terms, Git is a tool, while GitHub is a service for projects that use Git. With GitHub, you can store your Git repositories online, manage them, and collaborate with others on coding projects.
+
+
+5 basic git commands:
+1. git init:
+     Turn an exixting directory into a git repository
+
+ 2.git clone [url]:
+    clone a repository that already exists on github,including all of files,branches.
+
+3.git fetch:
+  Downloads all history from the remote tracking branches
+
+ 4.git push:
+   uploads all local branch commits to GitHub
+
+5.git merge:
+  combines remote tracking branch into current local branch.
+
+
+
+To create a pull request, you need to have made your code changes on a separate branch or forked repository.
+
+From the open repository, select the Create button and select Pull request in the This repository section of the dropdown menu.
+
+Fill out the rest of the pull request form. 
+
+Click Create pull request.    
